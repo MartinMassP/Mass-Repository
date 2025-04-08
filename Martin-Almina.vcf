@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Almina;Martin;;;
+FN:Martin Almina
+ORG:Micelium
+TITLE:Founder
+TEL;TYPE=CELL:+61412345678
+EMAIL:martin@micelium.com
+URL:https://micelium.com
+END:VCARD
